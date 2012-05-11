@@ -1,10 +1,9 @@
-macao-neon
-==========
-
-Lo schermo neon di macao milano
+Macao Neon Bitmap Screen - Milano
+=================================
 
 
 Links
 -----
 
-* [Interfaccia web bitmap](http://www-test.digitalmonkeys.it/torre/)
+* [Web drawing interface](http://www-test.digitalmonkeys.it/torre/),
+  with animation capabilities.
